@@ -1,0 +1,20 @@
+html {
+  width: 100%;
+  margin: 0; }
+
+header {
+  background-color: #abcdef; }
+
+body {
+  background-color: #f5deb3;
+  width: 100%;
+  margin: 0;
+  display: flex;
+  flex-flow: column nowrap;
+  color: #080808;
+  font-weight: bold; }
+
+footer {
+  order: 3;
+  background: #616100;
+  color: #080808; }
